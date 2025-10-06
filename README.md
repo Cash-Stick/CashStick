@@ -9,7 +9,7 @@
 > **Open-source firmware for CashStick Bitcoin bearer device combining RP2040 microcontroller with SE050 secure element for hardware-level Bitcoin security.**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Cash-Stick/cashstick-firmware/main/docs/images/cashstick-device.jpg](https://cashstick.org/assets/image_1759742019922-CFo_EETG.png" alt="CashStick Bitcoin Bearer Device" width="600"/>
+  <img src="https://cashstick.org/assets/image_1759742019922-CFo_EETG.png" alt="CashStick Bitcoin Bearer Device" width="600"/>
 </div>
 
 ## 🚀 Features
