@@ -6,7 +6,7 @@
 [![Security: SE050](https://img.shields.io/badge/Security-SE050-red.svg)](https://www.nxp.com/products/security-and-authentication/authentication/edgelock-se050-plug-trust-secure-element-family:SE050)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-secp256k1-orange.svg)](https://en.bitcoin.it/wiki/Secp256k1)
 
-> **Open-source firmware for CashStick Bitcoin bearer device combining RP2040 microcontroller with SE050 secure element for hardware-level Bitcoin security.**
+> **Open-source firmware and hardware for CashStick Bitcoin bearer device combining RP2040 microcontroller with SE050 secure element for hardware-level Bitcoin security.**
 
 <div align="center">
   <img src="https://cashstick.org/assets/image_1759742019922-CFo_EETG.png" alt="CashStick Bitcoin Bearer Device" width="600"/>
