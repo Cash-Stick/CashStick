@@ -1,7 +1,7 @@
 # CashStick Overview 🔐
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Cash-Stick/cashstick-firmware)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Cash-Stick/CashStick)
 [![Hardware: RP2040](https://img.shields.io/badge/Hardware-RP2040-blue.svg)](https://www.raspberrypi.com/products/rp2040/)
 [![Security: SE050](https://img.shields.io/badge/Security-SE050-red.svg)](https://www.nxp.com/products/security-and-authentication/authentication/edgelock-se050-plug-trust-secure-element-family:SE050)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-secp256k1-orange.svg)](https://en.bitcoin.it/wiki/Secp256k1)
@@ -25,7 +25,7 @@
 ## ⚡ Quick Start
 
 ### 1. Firmware Installation
-1. **Download** latest firmware (.uf2 file) from [Releases](https://github.com/Cash-Stick/cashstick-firmware/releases)
+1. **Download** latest firmware (.uf2 file) from [Releases](https://github.com/Cash-Stick/CashStick/releases)
 2. **Hold BOOT button** while connecting CashStick to USB port
 3. **Drag and drop** firmware file to "RPI-RP2" drive that appears
 4. **Device reboots** automatically with new firmware installed
@@ -140,8 +140,8 @@ CashStick firmware is designed for seamless manufacturing integration:
 ## 🔗 Links
 
 - **Website**: [cashstick.org](https://cashstick.org)
-- **Community**: [Telegram @bitcoinmint](https://t.me/bitcoinmint)
-- **Support**: [GitHub Issues](https://github.com/Cash-Stick/cashstick-firmware/issues)
+- **Community**: [Telegram @bitcoinmint](https://t.me/cash_stick)
+- **Support**: [GitHub Issues](https://github.com/Cash-Stick/CashStick/issues)
 
 ## 📄 License
 
@@ -161,6 +161,6 @@ We chose MIT License to ensure:
 
 **Built with ❤️ for Bitcoin security and self-sovereignty**
 
-[⭐ Star this repository](https://github.com/Cash-Stick/cashstick-firmware) if you find it useful!
+[⭐ Star this repository](https://github.com/Cash-Stick/CashStick) if you find it useful!
 
 </div>
